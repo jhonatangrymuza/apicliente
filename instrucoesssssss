@@ -1,0 +1,67 @@
+padrao over configuration vem oque vim por padrao se vc nao especificar igual no hibernate
+
+E no fluene ele tem que explicar todos os atributos
+
+
+Command é um dos 11 padrões comportamentais dentre os 23 padrões de projeto de software do GOF. Na programação orientada a objeto, o 
+command é um padrão no qual um objeto é usado para encapsular toda informação necessária para executar uma ação ou acionar um evento em um momento posterior.
+alias ll=ls -lah --color
+padrao over configuration vem oque vim por padrao se vc nao especificar igual no hibernate
+
+
+
+
+rum > eclipse marketplace> jboss e confirma tudo
+
+
+
+ordem do servidor  qualquer aplicacao que estiver requiisitando algo vai vim para o nosso servidor onde sera essa ordem
+
+|aplicacao|
+
+|weldfly|
+
+|jvm|
+
+|linux|
+
+
+CTRL + 4 para abrir a tela de pesquisa
+ java ee
+
+CTRL + 4 DENTRO DO POM.XML DIGITA jps Setup
+container  >>>> wildfly app server
+provider() >>>> hibernete 
+
+CTRL + 4 jpa new entity
+escolher um nome cliente 
+e se for estender de outra classe coloca o nome da classe 
+id para colocar a chave primera 
+table coloca as anoteichions 
+
+CTRL + 4 jpa new field 
+selecioar a entity 
+coloocar  nome
+e finish
+
+CTRL + 4 rest setup
+e finish
+
+CTRL + 4 rest generete end point
+selecionar o projeto que vc criou 
+e finish
+
+CTRL + 4 scaf
+
+scaffold generete 
+e seleciona o angularJS
+e finished
+
+CTRL + 3 SERVERS
+versao 10
+next 
+next
+E AGORA PROCURA O WIDFLY
+e finished
+
+e start o o widfly
